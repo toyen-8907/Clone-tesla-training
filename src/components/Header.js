@@ -18,7 +18,7 @@ function Header() {
             {cars && cars.map((car, index)=>(
               <a key={index} href='#'>{car}</a>
             ))} 
-{/* 利用SLICE去分割建立索引 */}
+
         </Menu> 
         <RightMenu>
             <a href="#">Shop</a>
