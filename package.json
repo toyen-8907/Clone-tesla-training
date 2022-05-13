@@ -19,6 +19,7 @@
     "react-dom": "^18.0.0",
     "react-is": "^18.0.0",
     "react-redux": "^7.2.8",
+    "react-reveal": "^1.2.2",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.5"
   },
